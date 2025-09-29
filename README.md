@@ -20,8 +20,11 @@ Models Used
 Model	Description
 
 Linear Regression	Baseline model for comparison
+
 Ridge Regression	Regularized linear model (L2 penalty)
+
 Lasso Regression	Regularized linear model with feature selection (L1 penalty)
+
 Random Forest	Ensemble model capturing nonlinear relationships
 
 
