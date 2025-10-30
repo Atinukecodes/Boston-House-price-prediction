@@ -68,15 +68,8 @@ Seaborn, Matplotlib
 
 Google Colab
 
- How to Run
-Clone the repository
-
-Open the notebook in Google Colab or Jupyter
-
-Run all cells sequentially
-
-Modify parameters or models to experiment
-
+Project Overview: **https://drive.google.com/file/d/1-njN1DAMe_BLWvT0kBwsSrs1fzQKIYHA/view?usp=sharing**
+ 
 📬 Contact
 
 Created by Atinuke 
